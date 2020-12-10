@@ -10,7 +10,7 @@
     <!-- desktop-menu -->
     <div class="menu-container">
         <div class="desktop-menu-logo"><a href="{{.Site.BaseURL | relLangURL }}"><img class="img-fluid"
-              src="{{ .Site.Params.logo_light | absURL }}" alt="{{ .Site.Title }}" id="desktop-logo"></a>
+              src="{{ .Site.Params.logo_light | absURL }}" alt="" id="desktop-logo"></a>
         </div>
       <ul class="desktop-menu list-inline mb-0" id="desktop-menu">
         {{ range .Site.Menus.main }}
@@ -50,7 +50,7 @@
           </div>
         </a>
         <div class="mobile-menu-logo"><a href="{{.Site.BaseURL | relLangURL }}"><img class="img-fluid"
-              src="{{ .Site.Params.logo_dark | absURL }}" alt="{{ .Site.Title }}"></a>
+              src="{{ .Site.Params.logo_dark | absURL }}" alt=""></a>
         </div>
         <div class="menu-slider">
           <nav>
@@ -101,7 +101,7 @@
 <section class="header" id="home">
   {{ if .Site.Params.enable_logo }}
   <div class="logo">
-    <img class="img-fluid" src="{{ .Site.Params.logo_light | relURL }}" alt="{{ .Site.Title }}">
+    <img class="img-fluid" src="{{ .Site.Params.logo_light | relURL }}" alt="">
   </div>
   {{ end }}
   <div class="slider-prev-button slider-button">
