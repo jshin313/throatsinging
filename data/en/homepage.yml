@@ -100,55 +100,56 @@ portfolio:
     # portfolio item loop
     - name : "<br><br>Wolf Totem"
       image : "images/portfolio/item1.jpg"
-      date : ""
+      link: "https://youtu.be/jM8dCGIm6yc"
       category : "The Hu"
       
     # portfolio item loop
     - name : "Song from Star Wars Jedi: Fallen Order"
       image : "images/portfolio/item2.jpg"
-      date : ""
+      link: "https://youtu.be/oJZfEh3EciU"
+      link : ""
       category : "The Hu"
       
     # portfolio item loop
     - name : "<br>Ediski deg Boost-aamny"
       image : "images/portfolio/item3.jpg"
-      date : "Feb 2018"
+      link: "https://youtu.be/sK0npp2NLaY"
       category : "Alash"
       
     # portfolio item loop
     - name : "<br>Kai Kozhong"
       image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
+      link: "https://youtu.be/dpF1Qh0lrCA"
       category : "Altai Kai"
       
     # portfolio item loop
     - name : "<br>Chyraa-Khoor"
       image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
+      link : "https://youtu.be/R2ovoRyv4kw"
       category : "Huun Huur Tu"
       
     # portfolio item loop
     - name : "<br>Kongar-ol Ondar on TV"
       image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
+      link : "https://youtu.be/TVyyhHFKI8E"
       category : "Kongar-ol Ondar"
       
     # portfolio item loop
     - name : "<br><br>Sygyt Solo"
       image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
+      link : "https://youtu.be/Mtbsb3swbcU"
       category : "Huun Huur Tu"
       
     # portfolio item loop
     - name : "<br>Songs by Chod-uraa Tumat"
       image : "images/portfolio/item8.jpg"
-      date : "Feb 2018"
+      link : "https://youtu.be/JN36FVTazjs"
       category : "Tyva Kyzy"
       
     # portfolio item loop
     - name : "<br>Baby Camel Song"
       image : "images/portfolio/item9.jpg"
-      date : "Feb 2018"
+      link : "https://youtu.be/nI-USUQaD6A"
       category : "Bukhchuluun Ganburged"
       
 
@@ -272,7 +273,7 @@ significance:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "Significance"
-  content : "Tuvan/Mongolian/Altai throat-singing has definitely become more widely known throughout the world due to the efforts of many individuals and groups. The playlist was selected in the hopes to reflect these efforts by some of the more impactful and influential artists. The Hu blends tradition and modern masterfully and hopefully appeals to some who wish a more modern take on traditional folk songs. The band was momumental in getting more people around the world exposed after being the first Mongolian band to reach No. 1 on the Hard Rock Chart on *Billboard*. Many of the songs also help to spread Mongolian culture and history through since many contain old war chants and poetry. As mentioned before, the Hu helped expose millions more people to the art through the music for the Star Wars video game since the song incorporated many aspects of Mongolian history/culture like the *Eternal Blue Sky*, an ancient religion based on shaminism and a sky diety. Songs like the one by Huun‐Huur‐Tu further exposes listeners to Mongolian history by showing the importance of horses, since even a non-native listener can hear the sounds of the horse trotting against the ground. Different regions like Altai, Mongolia, and Tuva are represented by the playlist as well to expose listeners to the slight variations between these regions. Finally, the camel song lets listeners understand the origins of throat-singing and one of the purposes it served by helping the herders in the region. "
+  content : "Tuvan/Mongolian/Altai throat-singing has definitely become more widely known throughout the world due to the efforts of many individuals and groups. The playlist was selected in the hopes to reflect these efforts by some of the more impactful and influential artists. The Hu blends tradition and modern masterfully and hopefully appeals to some who wish a more modern take on traditional folk songs. The band was momumental in getting more people around the world exposed after being the first Mongolian band to reach No. 1 on the Hard Rock Chart on *Billboard*. Many of the songs also help to spread Mongolian culture and history through since many contain old war chants and poetry. As mentioned before, the Hu helped expose millions more people to the art through the music for the Star Wars video game since the song incorporated many aspects of Mongolian history/culture like the *Eternal Blue Sky*, an ancient religion based on shaminism and a sky diety. Songs like the one by Huun‐Huur‐Tu further exposes listeners to Mongolian history by showing the importance of horses, since even a non-native listener can hear the sounds of the horse trotting against the ground. Different regions like Altai, Mongolia, and Tuva are represented by the playlist as well to expose listeners to the slight variations between these regions. Finally, the camel song lets listeners understand the origins of throat-singing and one of the purposes it served by helping the herders in the region. Unfortunately, compiling throat-singing from other regions would have been a bit more challenging than focusing on one region since there are many more differences between the throat-singing from the Inuits and the Xhosa. Unlike the Mongolian/Tuvan/Altai throat-singing, other forms of throat-singing do not have as much media avaialbe on sites like Youtube as well or bands. A form of throat-singing from Japan called Rekuhkara is even considered extinct. Thus this playlists focuses mainly on one region."
   # button
   button:
     enable : false
