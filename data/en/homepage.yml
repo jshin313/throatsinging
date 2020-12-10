@@ -73,6 +73,18 @@ The throat singers use their vocal folds and tracts to filter out the unwanted o
 * The overtone singing is also called **polyphonic** singing since there are multiple independent lines being sung at the same time.
 
 * The art of overtone singing is also an oral tradition that is passed down from generation to generation.
+
+* The following instruments are used in the song called *Wolf Totem*:
+
+* **Chordophones**: - Tovshuur: 2 or 3 stringed lute: Used while storytelling and dancing.  - Morin khuur: Box-shaped Bowed fiddle.
+
+* **Electrophone**: Amplified Bass Guitar
+
+* **Membranophones**: - Bass Drums
+
+* **Aerophones**: - Human voice
+
+* At 1:58 in the video, we hear a **call and response**. After the main singer chants, the rest of the singers follow.
   "
   # button
   button:
@@ -144,8 +156,8 @@ portfolio:
 about1:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Wolf Totem"
+  content : "The Hu is a band that is unique from the rest of the groups here since it one of the only ones that blends the traditional Mongolian throat singing with more modern day instruments and styles. By bending metal and throat singing they create what they call a style they call *Hunnu Rock*, named after the Hunnu empire (known as the Huns in the West). The band still uses traditional Mongolian instruments like the “Morin Khuur (horsehead fiddle), Tovshuur (Mongolian guitar), and Tumur Khuur (jaw harp)” with more modern instruments like the bass guitar and drums."
   # button
   button:
     enable : false
@@ -155,8 +167,10 @@ about1:
 about2:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Song from Star Wars Fallen Order"
+  content : "
+  This is another song from the Hu band. The band was contacted by a game studio to help them produce a song for their upcoming video game based on the Star Wars franchise. Interestingly, with guidance form the studio, the band created a new alien language specifically for this song, basing the new language on aspects of Mongolian culture and also the *Eternal Blue Sky*, an ancient religion in Central Asia. Like the previous song, the band incorparated traditional throat singing and instruments with the new language and modern instruments.
+  "
   # button
   button:
     enable : false
@@ -166,8 +180,8 @@ about2:
 about3:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Chyraa-Khoor (Yellow Trotter)"
+  content : "Huun‐Huur‐Tu is a well-known traditional Tuvan group that practices Tuvan throat singing. They use traditional instruments such as igil (2-stringed bowed instrument) and khomus (Tuvan jaw harp). Many of the songs incorparate important aspects of their culture, specifically by using horse imagery. In the first song, called yellow trotter, you can hear the trotting of the horse through the steady beat."
   # button
   button:
     enable : false
@@ -177,8 +191,8 @@ about3:
 about4:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Kongar-ol Ondar"
+  content : "One of the most famous throat-singers was Kongar-ol Ondar. He was a practionier of Tuvan throat singing. Here he appears as a guest on the Late Show with David Letterman."
   # button
   button:
     enable : false
@@ -188,8 +202,8 @@ about4:
 about5:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Ediski deg Boostaamny"
+  content : "The Alash ensemble is also one of the more well-known "
   # button
   button:
     enable : false
@@ -273,6 +287,8 @@ significance:
   * Barras, Marie-Cécile, and Anne-Marie Gouiffès. “The Reception Of Overtone Singing By Uninformed Listeners.” Journal of Interdisciplinary Music Studies, vol. 2, issue 1&2, 2008, www.musicstudies.org/wpcontent/uploads/2017/01/Barras_JIMS_0821204.pdf
 
   * Levin, Theodore  C., and Michael E. Edgerton. “THE THROAT SINGERS OF TUVA.” Scientific American, Inc., 1999, www.uvm.edu/.
+
+  * Öberg, Robin. “What Is Throat Singing?” **Lund University Publications**, 2008, lup.lub.lu.se. 
 
   * Pegg, Carole. “Mongolian Conceptualizations of Overtone Singing (Xöömii).” *British Journal of Ethnomusicology*, vol. 1, 1992, pp. 31–54. *JSTOR*, www.jstor.org/stable/3060726. 
   "
