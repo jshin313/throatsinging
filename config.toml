@@ -121,3 +121,5 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Website Copyright &copy; 2020 Jacob Shin - [Theme](https://somrat.netlify.com)"
+
+publishDir = "docs"
