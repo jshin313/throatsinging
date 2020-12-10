@@ -4,6 +4,7 @@ title = "Overtone Singing | A World Music Project"
 theme = "somrat"
 # disable language
 disableLanguages = [] # disable language from here
+publishDir = "docs"
 
 ############################# Plugins ##############################
 
@@ -122,4 +123,3 @@ home = "Home"
 # copyright
 copyright = "Website Copyright &copy; 2020 Jacob Shin - [Theme](https://somrat.netlify.com)"
 
-publishDir = "docs"
