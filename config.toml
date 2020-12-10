@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://throat.jacobshin.com"
+baseURL = ""
 title = "Overtone Singing | A World Music Project"
 theme = "somrat"
 # disable language
