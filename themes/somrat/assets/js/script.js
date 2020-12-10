@@ -161,7 +161,7 @@
         var counter = 0;
         var tracker = 0;
 		$('section').each(function () {
-			if ((counter == 2 || counter == 3 || counter == 4 || counter == 14 || counter == 15) && $(window).scrollTop() + 80 >= $(this).offset().top) {
+			if ((counter == 3 || counter == 4 || counter == 5 || counter == 15 || counter == 16) && $(window).scrollTop() + 80 >= $(this).offset().top) {
 				tracker++;
 				// console.log($(window).scrollTop() + 80);
 				// console.log($(this).offset().top);

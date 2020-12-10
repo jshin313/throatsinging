@@ -47,8 +47,33 @@ background:
 music:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Musical Elements"
+  content : "
+  * **Frequency** describes how many vibrations a note has a given amount of time. The more vibrations per second the higher pitch a note has. A lower frequency or lower amount of vibrations means the note is lower. For example, the note A is usually 440 vibrations per second. People often use the abbreviation Hz to signify vibrations per second which is named after the physicist who studied sound, so 440 vibrations per second = 440 Hz. 
+
+* Whenever a note is played on an instrument or sung, there are actually more than one frequency being heard. We just call the “loudest” of these frequencies the “note” we play. The **fundamental** is the lowest frequency in that note which is usually the “main” note we perceive as the loudest. **Overtones** are the other higher frequencies that are heard along with the fundamental. 
+
+* **Harmonics** are the integer multiples of the fundamental frequency. For example, since the note A is 440 Hz, the harmonics would be 440 Hz, 880 Hz (440 x 2), 1320 Hz (440 x 3), etc. For any fundamental frequency, f, the overtones are 1f, 2f, 3f, etc. just like the example above.
+
+* In a perfectly shaped cylindrical tube, the overtones are exactly the same as the harmonics. However, in real instruments like a trumpet and a piano, the overtones produced by pressing a key or blowing a note are not perfect integer multiples of the fundamental. For example, on a piano, if f is the fundamental frequency, then the overtones might have the following frequencies: 1f, 2.01f, 2.02f, 3.03f, etc. Some musicians often use harmonics and overtones interchangeably even if they aren’t necessarily the same since they might be similar for a particular instrument.
+
+* **Timbre** is what describes the unique overtones that an instrument or voice produces. For example, a clarinet has louder odd overtones (1f, 3f, 5f, 7f) while a guitar or violin might have more overtones that more accurately align with the harmonics. **Membranophones** that produce sound from a membrane have even weirder overtone series: 1f, 1.59f, 2.14f, 2.30f, 2.65f. This sequence of overtones gives each voice and instrument its own “fingerprint” and forms the basis of the unique sounds of each. Here’s the overtones produced by playing the sixth C on a piano. As the diagram shows, the loudest is the fundamental while the overtones are somewhat close to the multiples of the fundamental.
+
+![C6 Spectrogram](https://www.acs.psu.edu/drussell/Piano/Figures/C6-ff-pp.gif)
+
+
+* The tuning fork spectrogram below shows that the note is much more “pure”. In other words the fundamental is significantly louder than the overtones and there aren’t as many overtones as other instruments. This is part of the reason why tuning forks are used to tune instruments.
+![Tuning Fork Spectrogram](https://cdn.comsol.com/wordpress/2018/04/frequency-spectrum-vertical-stem-displacement.png)
+
+* In normal singing, the singer puts most of the volume in the fundamental and the overtones produced are just a byproduct and contribute to the timbre for the singer. However, throat singers use a variety of techniques to “filter” out the unwanted overtones and only select one or two overtones they want to emphasize.
+
+* Throat singers are able to produce multiple notes by singing a lower drone tone (the fundamental) around  150 Hz while also emphasizing a higher pitched note, which is an overtone. Hence the name “overtone singing” is given to this particular type of music. (Barras 62)
+The throat singers use their vocal folds and tracts to filter out the unwanted overtones and emphasize overtones (Levin 84). 
+
+* The overtone singing is also called **polyphonic** singing since there are multiple independent lines being sung at the same time.
+
+* The art of overtone singing is also an oral tradition that is passed down from generation to generation.
+  "
   # button
   button:
     enable : false
@@ -218,7 +243,7 @@ about9:
 ########################### Gender ##################################
 gender:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "Gender in Throat Singing"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
@@ -231,156 +256,25 @@ gender:
 significance:
   enable : true
   image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
+  title : "Significance"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
   button:
     enable : false
     label : "DOWNLOAD MY CV"
     link : "#" # you can put your cv in static folder and give the path here.
+    
+########################### Bibliography ##################################
+significance:
+  enable : true
+  image : "images/backgrounds/portrait.jpg"
+  title : "Bibliography"
+  content : "
+  * Barras, Marie-Cécile, and Anne-Marie Gouiffès. “The Reception Of Overtone Singing By Uninformed Listeners.” Journal of Interdisciplinary Music Studies, vol. 2, issue 1&2, 2008, www.musicstudies.org/wpcontent/uploads/2017/01/Barras_JIMS_0821204.pdf
 
-###########################3 Experience ##############################
-experience:
-  enable : false
-  title : "EXPERIENCE"
-  experience_list:
-    # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-commerce etc."
-      
-    # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+  * Levin, Theodore  C., and Michael E. Edgerton. “THE THROAT SINGERS OF TUVA.” Scientific American, Inc., 1999, www.uvm.edu/.
 
+  * Pegg, Carole. “Mongolian Conceptualizations of Overtone Singing (Xöömii).” *British Journal of Ethnomusicology*, vol. 1, 1992, pp. 31–54. *JSTOR*, www.jstor.org/stable/3060726. 
+  "
+  # button
 
-############################### Skill #################################
-skill:
-  enable : false
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
-
-################################### Service ##############################3
-service:
-  enable : false
-  title : "SERVICES"
-  service_list:
-    # service item loop
-    - name : "Web Development"
-      image : "images/icons/web-development.png"
-      
-    # service item loop
-    - name : "Graphic Design"
-      image : "images/icons/graphic-design.png"
-      
-    # service item loop
-    - name : "Database Management"
-      image : "images/icons/dbms.png"
-      
-    # service item loop
-    - name : "Software Development"
-      image : "images/icons/software-development.png"
-      
-    # service item loop
-    - name : "Digital Marketing"
-      image : "images/icons/marketing.png"
-      
-    # service item loop
-    - name : "Mobile App Development"
-      image : "images/icons/mobile-app.png"
-
-
-############################## call to action #########################
-call_to_action:
-  enable : false
-  bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
-  button:
-    enable : false
-    label : "SAY HELLO!"
-    link : "#contact"
-
-
-
-
-################################# Testimonial #########################33
-testimonial:
-  enable : false
-  title : "TESTIMONIALS"
-  testimonial_slider:
-    # slider item loop
-    - name : "Micheal Clark"
-      image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-                
-    # slider item loop
-    - name : "Peter Parker"
-      image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-                
-    # slider item loop
-    - name : "Jessica Jones"
-      image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-
-
-######################### funfacts #############################3
-funfacts:
-  enable : false
-  funfacts_list:
-    # funfacts item loop
-    - name : "HANDS TO WORK"
-      image : "images/icons/works.png"
-      count : "100"
-      
-    # funfacts item loop
-    - name : "HAPPY CLIENT"
-      image : "images/icons/happy.png"
-      count : "200"
-      
-    # funfacts item loop
-    - name : "FINISHED PROJECT"
-      image : "images/icons/project.png"
-      count : "250"
-      
-    # funfacts item loop
-    - name : "CUPS OF COFFEE"
-      image : "images/icons/coffee.png"
-      count : "150"
-
-
-############################## contact ###########################
-contact:
-  enable : false
-  title : "SAY HELLO!"
