@@ -95,7 +95,7 @@ The throat singers use their vocal folds and tracts to filter out the unwanted o
 ############################# portfolio ################################
 portfolio:
   enable : true
-  title : "PORTFOLIO"
+  title : "Playlist"
   portfolio_list:
     # portfolio item loop
     - name : "<br><br>Wolf Totem"
