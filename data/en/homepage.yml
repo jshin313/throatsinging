@@ -213,8 +213,9 @@ about5:
 about6:
   enable : true
   image : "images/backgrounds/item4.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "Kai Kozhong"
+  content : "
+  There are three main types of throat-singing in the central asia/mongolia/siberia region: kargyraa, khoomei, sygyt. Kargyraa is the lowest of the three and imitates the “growls of nighttime predators”. Sygyt produces a the higher pitched and translates to whistle since it does sound like a bird whistle. Finally khoomei (also known as xoomei) is produces the middle sound of throat singing. Somewhat confusingly, khoomei is also used as umbrella term describing all forms of throat-singing since it translates to throat (Levin 80). Kai Kozhong means songs of khoomei. This song is played by the Altai Kai, a group from the Altai republic, northwest of Mongolia."
   # button
   button:
     enable : false
