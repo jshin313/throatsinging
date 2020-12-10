@@ -155,7 +155,7 @@ portfolio:
 ########################### About ##################################
 about1:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item1.jpg"
   title : "Wolf Totem"
   content : "The Hu is a band that is unique from the rest of the groups here since it one of the only ones that blends the traditional Mongolian throat singing with more modern day instruments and styles. By bending metal and throat singing they create what they call a style they call *Hunnu Rock*, named after the Hunnu empire (known as the Huns in the West). The band still uses traditional Mongolian instruments like the “Morin Khuur (horsehead fiddle), Tovshuur (Mongolian guitar), and Tumur Khuur (jaw harp)” with more modern instruments like the bass guitar and drums."
   # button
@@ -166,7 +166,7 @@ about1:
 ########################### About ##################################
 about2:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item2.jpg"
   title : "Song from Star Wars Fallen Order"
   content : "
   This is another song from the Hu band. The band was contacted by a game studio to help them produce a song for their upcoming video game based on the Star Wars franchise. Interestingly, with guidance form the studio, the band created a new alien language specifically for this song, basing the new language on aspects of Mongolian culture and also the *Eternal Blue Sky*, an ancient religion in Central Asia. Like the previous song, the band incorparated traditional throat singing and instruments with the new language and modern instruments.
@@ -179,7 +179,7 @@ about2:
 ########################### About ##################################
 about3:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item5.jpg"
   title : "Chyraa-Khoor (Yellow Trotter)"
   content : "Huun‐Huur‐Tu is a well-known traditional Tuvan group that practices Tuvan throat singing. They use traditional instruments such as igil (2-stringed bowed instrument) and khomus (Tuvan jaw harp). Many of the songs incorparate important aspects of their culture, specifically by using horse imagery. In the first song, called yellow trotter, you can hear the trotting of the horse through the steady beat."
   # button
@@ -190,7 +190,7 @@ about3:
 ########################### About ##################################
 about4:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item6.jpg"
   title : "Kongar-ol Ondar"
   content : "One of the most famous throat-singers was Kongar-ol Ondar. He was a practionier of Tuvan throat singing. Here he appears as a guest on the Late Show with David Letterman."
   # button
@@ -201,7 +201,7 @@ about4:
 ########################### About ##################################
 about5:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item3.jpg"
   title : "Ediski deg Boostaamny"
   content : "The Alash ensemble is also one of the more well-known "
   # button
@@ -212,7 +212,7 @@ about5:
 ########################### About ##################################
 about6:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item4.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
@@ -223,7 +223,7 @@ about6:
 ########################### About ##################################
 about7:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item7.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
@@ -234,7 +234,7 @@ about7:
 ########################### About ##################################
 about8:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item8.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
@@ -245,7 +245,7 @@ about8:
 ########################### About ##################################
 about9:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/item9.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Somrat, Professional Web Developer. I love to write code, it's my passion. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
