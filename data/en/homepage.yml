@@ -203,7 +203,7 @@ about5:
   enable : true
   image : "images/backgrounds/item3.jpg"
   title : "Ediski deg Boostaamny"
-  content : "The Alash ensemble is also one of the more well-known "
+  content : "The Alash ensemble is also one of the more well-known Tuvian throat-singing groups. The title of the song translates to **My Throat, the Cuckoo**. This is in reference to how the throat-singing can sometimes sound like a bird whistle. The ensemble uses traditional Tuvan instruments like the **doshpuulur**, a wooden Tuvan lute played by strumming/plucking."
   # button
   button:
     enable : false
