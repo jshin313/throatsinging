@@ -60,12 +60,15 @@ music:
 * **Timbre** is what describes the unique overtones that an instrument or voice produces. For example, a clarinet has louder odd overtones (1f, 3f, 5f, 7f) while a guitar or violin might have more overtones that more accurately align with the harmonics. **Membranophones** that produce sound from a membrane have even weirder overtone series: 1f, 1.59f, 2.14f, 2.30f, 2.65f. This sequence of overtones gives each voice and instrument its own “fingerprint” and forms the basis of the unique sounds of each. Here’s the overtones produced by playing the sixth C on a piano. As the diagram shows, the loudest is the fundamental while the overtones are somewhat close to the multiples of the fundamental.
 
 ![C6 Spectrogram](https://www.acs.psu.edu/drussell/Piano/Figures/C6-ff-pp.gif)
-Image Credits: https://www.acs.psu.edu/drussell/Piano/Dynamics.html
+
+
+* Image Credits: https://www.acs.psu.edu/drussell/Piano/Dynamics.html
 
 
 * The tuning fork spectrogram below shows that the note is much more “pure”. In other words the fundamental is significantly louder than the overtones and there aren’t as many overtones as other instruments. This is part of the reason why tuning forks are used to tune instruments.
 ![Tuning Fork Spectrogram](https://cdn.comsol.com/wordpress/2018/04/frequency-spectrum-vertical-stem-displacement.png)
-Image Credits: https://www.comsol.com/blogs/finding-answers-to-the-tuning-fork-mystery-with-simulation/
+
+* Image Credits: https://www.comsol.com/blogs/finding-answers-to-the-tuning-fork-mystery-with-simulation/
 
 * In normal singing, the singer puts most of the volume in the fundamental and the overtones produced are just a byproduct and contribute to the timbre for the singer. However, throat singers use a variety of techniques to “filter” out the unwanted overtones and only select one or two overtones they want to emphasize.
 
