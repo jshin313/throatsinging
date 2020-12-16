@@ -62,13 +62,11 @@ music:
 ![C6 Spectrogram](https://www.acs.psu.edu/drussell/Piano/Figures/C6-ff-pp.gif)
 
 
-* Image Credits: https://www.acs.psu.edu/drussell/Piano/Dynamics.html
 
 
 * The tuning fork spectrogram below shows that the note is much more “pure”. In other words the fundamental is significantly louder than the overtones and there aren’t as many overtones as other instruments. This is part of the reason why tuning forks are used to tune instruments.
 ![Tuning Fork Spectrogram](https://cdn.comsol.com/wordpress/2018/04/frequency-spectrum-vertical-stem-displacement.png)
 
-* Image Credits: https://www.comsol.com/blogs/finding-answers-to-the-tuning-fork-mystery-with-simulation/
 
 * In normal singing, the singer puts most of the volume in the fundamental and the overtones produced are just a byproduct and contribute to the timbre for the singer. However, throat singers use a variety of techniques to “filter” out the unwanted overtones and only select one or two overtones they want to emphasize.
 
@@ -302,4 +300,15 @@ bibliography:
   * “Throat Singing: A Unique Vocalization from Three Cultures.” *Smithsonian Folkways Recordings*, Smithsonian Institution, 2020, folkways.si.edu/throat-singing-unique-vocalization-three-cultures/world/music/article/smithsonian. 
   "
   # button
+########################### Image Credits ##################################
+credits:
+  enable : true
+  image : "images/backgrounds/portrait.jpg"
+  title : "Image Credits"
+  content : "
+* Piano C6 Spectrogram: https://www.acs.psu.edu/drussell/Piano/Dynamics.html
+
+* Ideal Tuning Fork Spectrogram: https://www.comsol.com/blogs/finding-answers-to-the-tuning-fork-mystery-with-simulation/
+  "
+
 
